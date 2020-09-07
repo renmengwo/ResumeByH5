@@ -2,8 +2,9 @@ html {
     color: #000; }
 
 body {
-    font: 12px/1.5 "Microsoft YaHei",Tahoma,Arial,Helvetica,sans-serif;
+    font: 20px/1.5 "Microsoft YaHei",Tahoma,Arial,Helvetica,sans-serif;
     word-break: break-all;
+    color:#fff;
     word-wrap: break-word; }
 
 body, h1, h2, h3, h4, h5, h6, p, dl, dd {
